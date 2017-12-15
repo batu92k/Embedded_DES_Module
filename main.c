@@ -8,8 +8,10 @@
   ******************************************************************************
   */
 
-#include "stm32f4xx.h"                  																										// Device header
-#include "configurations.h"																																	// configurations file header
+#include "stm32f4xx.h" // Device header
+#include "configurations.h" // configurations file header
+#include "aux_functions.h" // aux functions header
+#include "usart_functions.h" // usart fonksiyonlari icin header
 
 /**
   * @brief  Programin giris noktasi olan main fonksiyonu
