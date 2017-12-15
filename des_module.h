@@ -9,8 +9,8 @@
   ******************************************************************************
   */
 
-#ifndef SRC_DES_MODULE_H_
-#define SRC_DES_MODULE_H_
+#ifndef DES_MODULE_H
+#define DES_MODULE_H
 
 #include <stdint.h>
 
