@@ -11,6 +11,11 @@
 #include "stm32f4xx.h"                  																										// Device header
 #include "configurations.h"																																	// configurations file header
 
+/**
+  * @brief  Programin giris noktasi olan main fonksiyonu
+  * @param  none 	
+  * @retval none
+  */
 int main()
 {
 	
