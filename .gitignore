@@ -110,3 +110,5 @@ $RECYCLE.BIN/
 *.uvprojx
 *.arge
 handlers.h~RF166f7ec.TMP
+aux_functions.h~RF170d4d2.TMP
+*.TMP
